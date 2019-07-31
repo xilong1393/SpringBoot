@@ -3,3 +3,4 @@
 *.css linguist-language=java
 *.html linguist-language=java
 *.properties linguist-language=java
+*.class linguist-language=java
